@@ -9,7 +9,7 @@ const bot = new TeleBot('513763614:AAHbMm_RvWI8O6JJdMTRe-Wl9iJBBk35Nsk')
     // else{
     var config = require('./messages.json')
     var echo= msg.text.toLowerCase()
-    //console.log(echo)
+    console.log(echo)
     var answer = fun.search(echo, config);
     // console.log("Question:", echo)
     // console.log("Answer:", answer)
