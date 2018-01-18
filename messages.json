@@ -1,0 +1,52 @@
+{
+    "test":[
+            {
+                "question":"how are you",
+                "answer":"I'm doing great. Thanks for asking. I hope you are fine too"
+            },
+            {
+                "question":"hi",
+                "answer":"hi"
+            },
+            {
+                "question":"Spreadsheet link",
+                "answer":"Check it out here: https://docs.google.com/spreadsheets/d/1hdgRMJ6IN1r2JrdMaV1cPy-0y_HqnWQIt8F6o9AxuYI/edit#gid=1973402965"
+            },
+            {
+                "question":"Bounty link",
+                "answer":"https://bitcointalk.org/index.php?topic=2591211.0"
+            },
+            {
+                "question":"How to join airdrop",
+                "answer":"Benebit AirDrop Form: https://goo.gl/forms/0oUvlDkG3ZNyxszz2"
+            },
+            {
+                "question":"Is sign up compulsory admin",
+                "answer":"Nope. It's for you to take advantage of upcoming rewards you could get"
+            },
+            {
+                "question":"Glad to meet you all",
+                "answer":"We are glad to have you here. Let me know if I can be of any help"
+            },
+            {
+                "question":"Where you will give your tokens",
+                "answer":"It will be given to you 7 days after Pre-ICO. We will announce how you will claim for it."
+            },
+            {
+                "question":"Token Contract Address",
+                "answer":"Token contract address: 0x8edaf22343c3fc2860c2e304238c888ffa32dd5a\\nSymbol: BNE\\ndecimals: 18"
+            },
+            {
+                "question":"Facebook form link",
+                "answer":"https://docs.google.com/forms/d/e/1FAIpQLSelp6B326dIHlOjlY417ahk46LHPNtopnMX38jmgp1_v_klaA/viewform"
+            },
+            {
+                "question":"Twitter form link",
+                "answer":"https://docs.google.com/forms/d/e/1FAIpQLSdkmfAlR261YEQoDc1mncvW4hc6Dt-xjVXrtHno51CnDtkDCA/viewform"
+            },
+            {
+                "question":"PSD files for the white paper",
+                "answer":"https://www.dropbox.com/sh/fzwq3xto8c3f4c0/AACuUhLnrFkU6FNpsmdUuxBWa?dl=0"
+            }
+        ]
+}       
